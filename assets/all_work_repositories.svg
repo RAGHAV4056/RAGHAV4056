@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="870" viewBox="0 0 1200 870" role="img" aria-labelledby="title desc">
+<title id="title">Raghav Sharma — Work Repositories</title>
+<desc id="desc">Seven GitHub repositories covering interpreters, data structures and algorithms, developer notes, a digital portfolio, GPU resource allocation and a local version control system.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#17130F"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF9A45"/><stop offset="1" stop-color="#FF6B00"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="870" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="870" rx="22" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="868" rx="21" fill="none" stroke="#30363D"/>
+<rect x="40" y="36" width="5" height="48" rx="2.5" fill="url(#accent)"/>
+<text x="62" y="54" fill="#FF8A35" font-family="Consolas,monospace" font-size="12" letter-spacing="2.4">RAGHAV4056 / GITHUB</text>
+<text x="62" y="91" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">All Work Repositories</text>
+<text x="62" y="119" fill="#A0A0A0" font-family="Consolas,monospace" font-size="12">PROJECTS · PROBLEM SOLVING · EXPERIMENTS</text>
+<text x="1138" y="57" fill="#FF8A35" font-family="Consolas,monospace" font-size="12" text-anchor="end">07 PROJECTS</text>
+<path d="M40 139H1160" stroke="#30363D"/>
+<!-- Card 01 -->
+<g transform="translate(40 158)">
+ <rect width="548" height="151" rx="12" fill="#161B22" stroke="#30363D"/>
+ <rect width="4" height="151" rx="2" fill="#FF6B00"/>
+ <text x="24" y="31" fill="#FF8A35" font-family="Consolas,monospace" font-size="11">01 / INTERPRETER</text>
+ <text x="24" y="59" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">MiniLang-Interpreter</text>
+ <text x="24" y="84" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">Command-based language with C++ and Java versions;</text>
+ <text x="24" y="103" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">variables, arithmetic, comparisons and string operations.</text>
+ <text x="24" y="132" fill="#FFB16D" font-family="Consolas,monospace" font-size="11">C++  ·  JAVA  ·  LANGUAGE DESIGN</text>
+</g>
+<!-- Card 02 -->
+<g transform="translate(612 158)">
+ <rect width="548" height="151" rx="12" fill="#161B22" stroke="#30363D"/>
+ <rect width="4" height="151" rx="2" fill="#FF6B00"/>
+ <text x="24" y="31" fill="#FF8A35" font-family="Consolas,monospace" font-size="11">02 / LANGUAGE TOOLING</text>
+ <text x="24" y="59" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">ForgeLang-Interpreter</text>
+ <text x="24" y="84" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">Developer-first language project with readable,</text>
+ <text x="24" y="103" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">indentation-based syntax and lexer/parser foundations.</text>
+ <text x="24" y="132" fill="#FFB16D" font-family="Consolas,monospace" font-size="11">C++  ·  TOKENIZER  ·  PARSER</text>
+</g>
+<!-- Card 03 -->
+<g transform="translate(40 325)">
+ <rect width="548" height="151" rx="12" fill="#161B22" stroke="#30363D"/>
+ <rect width="4" height="151" rx="2" fill="#FF6B00"/>
+ <text x="24" y="31" fill="#FF8A35" font-family="Consolas,monospace" font-size="11">03 / PROBLEM SOLVING</text>
+ <text x="24" y="59" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">LEETCODE-SOLUTIONS</text>
+ <text x="24" y="84" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">Accepted C++17 solutions organized by difficulty,</text>
+ <text x="24" y="103" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">with practice across core data structures and algorithms.</text>
+ <text x="24" y="132" fill="#FFB16D" font-family="Consolas,monospace" font-size="11">C++17  ·  DSA  ·  STL</text>
+</g>
+<!-- Card 04 -->
+<g transform="translate(612 325)">
+ <rect width="548" height="151" rx="12" fill="#161B22" stroke="#30363D"/>
+ <rect width="4" height="151" rx="2" fill="#FF6B00"/>
+ <text x="24" y="31" fill="#FF8A35" font-family="Consolas,monospace" font-size="11">04 / KNOWLEDGE BASE</text>
+ <text x="24" y="59" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">DEVELOPER-ARCHIVES</text>
+ <text x="24" y="84" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">A personal technical archive for notes, concepts</text>
+ <text x="24" y="103" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">and learning resources across DSA, databases and Java.</text>
+ <text x="24" y="132" fill="#FFB16D" font-family="Consolas,monospace" font-size="11">DSA  ·  DATABASES  ·  JAVA</text>
+</g>
+<!-- Card 05 -->
+<g transform="translate(40 492)">
+ <rect width="548" height="151" rx="12" fill="#161B22" stroke="#30363D"/>
+ <rect width="4" height="151" rx="2" fill="#FF6B00"/>
+ <text x="24" y="31" fill="#FF8A35" font-family="Consolas,monospace" font-size="11">05 / WEB DEVELOPMENT</text>
+ <text x="24" y="59" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">DIGITAL-PORTFOLIO</text>
+ <text x="24" y="84" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">Responsive personal portfolio presenting skills,</text>
+ <text x="24" y="103" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">projects, education and the developer journey.</text>
+ <text x="24" y="132" fill="#FFB16D" font-family="Consolas,monospace" font-size="11">HTML  ·  CSS  ·  JAVASCRIPT  ·  VITE</text>
+</g>
+<!-- Card 06 -->
+<g transform="translate(612 492)">
+ <rect width="548" height="151" rx="12" fill="#161B22" stroke="#30363D"/>
+ <rect width="4" height="151" rx="2" fill="#FF6B00"/>
+ <text x="24" y="31" fill="#FF8A35" font-family="Consolas,monospace" font-size="11">06 / SYSTEMS & SUSTAINABILITY</text>
+ <text x="24" y="59" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">ClusterMind-GPU-Resource-Allocation-System</text>
+ <text x="24" y="84" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">GPU job scheduling, thermal-aware allocation,</text>
+ <text x="24" y="103" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">maintenance indicators and carbon-emission analysis.</text>
+ <text x="24" y="132" fill="#FFB16D" font-family="Consolas,monospace" font-size="11">PYTHON / FLASK  ·  MYSQL  ·  WEB</text>
+</g>
+<!-- Card 07 -->
+<g transform="translate(40 659)">
+ <rect width="548" height="151" rx="12" fill="#161B22" stroke="#30363D"/>
+ <rect width="4" height="151" rx="2" fill="#FF6B00"/>
+ <text x="24" y="31" fill="#FF8A35" font-family="Consolas,monospace" font-size="11">07 / SYSTEMS PROGRAMMING</text>
+ <text x="24" y="59" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">CODENEXUS_LOCAL_VCS</text>
+ <text x="24" y="84" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">Git-inspired C++ local version-control system project</text>
+ <text x="24" y="103" fill="#B7BEC8" font-family="Arial,Helvetica,sans-serif" font-size="13">covering tracking, staging, commits, branches and rollback.</text>
+ <text x="24" y="132" fill="#FFB16D" font-family="Consolas,monospace" font-size="11">C++  ·  VERSION CONTROL</text>
+ <rect x="426" y="15" width="99" height="22" rx="11" fill="#2A1B12" stroke="#8A4B1D"/>
+ <text x="475.5" y="30" fill="#FFB16D" font-family="Consolas,monospace" font-size="9" text-anchor="middle">IN PROGRESS</text>
+</g>
+<text x="612" y="740" fill="#747D89" font-family="Consolas,monospace" font-size="12">BUILDING IN PUBLIC • LEARNING BY SHIPPING</text>
+<path d="M612 766H1160" stroke="#30363D"/>
+<text x="612" y="790" fill="#A0A0A0" font-family="Consolas,monospace" font-size="11">OPEN EACH REPOSITORY USING THE LINKS IN THE README BELOW</text>
+<path d="M40 835H1160" stroke="#FF6B00" stroke-opacity=".5"/>
+<text x="40" y="854" fill="#747D89" font-family="Consolas,monospace" font-size="10">RAGHAV4056 / SELECTED WORK</text>
+<text x="1160" y="854" fill="#FF8A35" font-family="Consolas,monospace" font-size="10" text-anchor="end">01 — 07</text>
+</svg>
