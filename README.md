@@ -1,152 +1,312 @@
-# Raghav Sharma | Developer & Builder
+ <div align="center">
 
-## Profile Snapshot
+<table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
+<tr>
+<td bgcolor="#170B0A">
 
-<div align="center">
+<table width="100%" bgcolor="#170B0A">
+<tr>
+<td width="20%" align="center" bgcolor="#170B0A">
+<img src="https://avatars.githubusercontent.com/u/204475784?v=4" width="115" alt="Raghav Sharma"/>
+</td>
+<td bgcolor="#170B0A">
+<p><b><font color="#FF6B00">@raghav4056</font></b></p>
+<h1><font color="#FF6035">Raghav Sharma</font></h1>
+<font color="#F5C2A5">B.Tech CSE @ JIIT'29</font>
+<br/>
+<font color="#D9B5A5">Building, experimenting and solving problems.</font>
+</td>
+<td align="center" bgcolor="#170B0A">
+<h1><font color="#FF6035">5</font></h1>
+<sub>TOTAL STARS</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://www.gitskins.com/api/section/hero?username=raghav4056&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F204475784%3Fu%3D863116ecabd6f966259bd7cac142afdfb1c76053%26v%3D4" alt="Raghav Sharma - GitHub Profile" width="100%" />
+<p align="center">
+<code>C</code> <code>C++</code> <code>Java</code> <code>Python</code> <code>JavaScript</code> <code>TypeScript</code> <code>HTML</code> <code>CSS</code> <code>SQL</code> <code>MySQL</code>
+</p>
 
-### `B.Tech CSE @ JIIT'29` · `Developer` · `Open-Source Enthusiast`
-
-**Building software. Solving problems. Exploring technology.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-RAGHAV4056-181717?style=flat-square&logo=github)](https://github.com/RAGHAV4056)
-[![Profile Views](https://komarev.com/ghpvc/?username=RAGHAV4056&style=flat-square&color=FF6B00)](https://github.com/RAGHAV4056)
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
+<!-- ABOUT ME -->
+<table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
+<tr><td bgcolor="#170B0A">
+
+<h2><font color="#FF6035">01 / ABOUT ME</font></h2>
+
+```bash
+$ whoami
+Raghav Sharma
+Computer Science Undergraduate @ JIIT
+CGPA: 9.06 / 10
+```
+
+I'm a Computer Science undergraduate who enjoys building practical software, understanding how systems work, and solving problems through code.
+
+- 🎓 B.Tech CSE — JIIT'29
+- 📊 CGPA — 9.06/10
+- 🧠 Data Structures & Algorithms
+- ⚙️ Full-Stack Development
+- 🖥️ Systems Programming
+- 🤖 AI/ML Exploration
+- 🌐 Open Source Development
+
+> Understanding how things work, not just making them work.
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- LANGUAGES -->
+<table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
+<tr><td bgcolor="#170B0A">
+
+<h2><font color="#FF6035">02 / LANGUAGES I KNOW & USE</font></h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css&theme=dark&perline=8" alt="Programming and web languages"/>
+</p>
+
+<p align="center">
+<code>C</code> &nbsp; <code>C++</code> &nbsp; <code>Java</code> &nbsp; <code>Python</code> &nbsp; <code>JavaScript</code> &nbsp; <code>TypeScript</code> &nbsp; <code>HTML</code> &nbsp; <code>CSS</code>
+</p>
+
+<p align="center">
+<b>Database Language & Technology</b>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+</p>
+
+<p align="center">
+<code>SQL</code> &nbsp; <code>MySQL</code>
+</p>
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- TOOLS -->
+<table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
+<tr><td bgcolor="#170B0A">
+
+<h2><font color="#FF6035">03 / TOOLS & ENVIRONMENTS</font></h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vim&theme=dark&perline=5" alt="Development tools"/>
+</p>
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- FRAMEWORKS -->
+<table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
+<tr><td bgcolor="#170B0A">
+
+<h2><font color="#FF6035">04 / FRAMEWORKS & DEVELOPMENT</font></h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask&theme=dark&perline=5" alt="Frameworks and development technologies"/>
+</p>
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- PROJECTS -->
+<table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
+<tr><td bgcolor="#170B0A">
+
+<h2><font color="#FF6035">05 / ALL WORK REPOSITORIES</font></h2>
+
+<sub>MY PROJECTS · DEVELOPMENT · LEARNING · EXPERIMENTS</sub>
+
+<br/><br/>
+
+### 01. MiniLang-Interpreter
+
+**Mini-Lang Interpreter**
+
+A lightweight custom language interpreter demonstrating lexical analysis, parsing and execution.
+
+`C++` `Interpreter Design`
+
+[VIEW REPOSITORY](https://github.com/RAGHAV4056/MiniLang-Interpreter)
+
 ---
 
-## `$ whoami` — About Me
+### 02. ForgeLang-Interpreter
 
-Hey! I'm **Raghav Sharma**, a Computer Science undergraduate at **Jaypee Institute of Information Technology (JIIT)**, graduating in 2029.
+**Developer-First Programming Language**
 
-I enjoy building practical software, exploring how systems work, and turning ideas into functional projects. My interests span problem-solving, full-stack development, systems programming, and AI/ML.
+A custom programming language focused on readability, simplicity, clean syntax and helpful diagnostics.
 
-- 🎓 B.Tech Computer Science & Engineering — JIIT'29
-- 📊 CGPA: **9.06/10**
-- 💻 Practising Data Structures & Algorithms
-- 🔭 Exploring Full-Stack Development, Systems & AI/ML
-- 🌐 Interested in Open Source and collaborative engineering
-- ⚡ Always learning, experimenting, and building.
+`C++` `Language Design`
 
-> I believe in understanding how things work, not just making them work.
+[VIEW REPOSITORY](https://github.com/RAGHAV4056/ForgeLang-Interpreter)
 
 ---
 
-## `$ tech-stack` — Core Toolkit
+### 03. LEETCODE-SOLUTIONS
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=raghav4056&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F204475784%3Fu%3D863116ecabd6f966259bd7cac142afdfb1c76053%26v%3D4" alt="Raghav's technology stack" width="100%" />
-</p>
+**Data Structures & Algorithms**
 
-### Languages & Development
+A collection of LeetCode solutions organized by difficulty and topic, focusing on clean code and optimized approaches.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css" />
-</p>
+`C++` `DSA` `Problem Solving`
 
-### Frameworks, Databases & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,mysql,git,github,linux,vscode" />
-</p>
+[VIEW REPOSITORY](https://github.com/RAGHAV4056/LEETCODE-SOLUTIONS)
 
 ---
 
-## `$ projects` — Selected Work
+### 04. DEVELOPER-ARCHIVES
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=raghav4056&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F204475784%3Fu%3D863116ecabd6f966259bd7cac142afdfb1c76053%26v%3D4" alt="Raghav's GitHub projects" width="100%" />
-</p>
+**Technical Learning Repository**
 
-### 01. ClusterMind
+An archive of technical learning, notes, concepts, cheatsheets and useful computer science resources.
+
+`C++` `Computer Science` `Documentation`
+
+[VIEW REPOSITORY](https://github.com/RAGHAV4056/DEVELOPER-ARCHIVES)
+
+---
+
+### 05. DIGITAL-PORTFOLIO
+
+**Personal Digital Portfolio**
+
+A responsive portfolio showcasing skills, projects, achievements, education and development journey.
+
+`HTML` `CSS` `JavaScript`
+
+[VIEW REPOSITORY](https://github.com/RAGHAV4056/DIGITAL-PORTFOLIO)
+
+---
+
+### 06. ClusterMind-GPU-Resource-Allocation-System
+
 **Energy-Efficient GPU Resource Allocation System**
 
-An intelligent GPU resource management project focused on efficient computing through:
+An intelligent GPU cluster management system featuring:
 
-- Predictive hardware maintenance
+- Priority-based job scheduling
 - Thermal-aware GPU allocation
+- Predictive hardware maintenance
 - Intelligent load balancing
 - Carbon emission analysis
 
 `Python` `MySQL` `HTML` `CSS` `JavaScript`
 
-### 02. NexShell
-**A Custom UNIX-Style Shell**
+[VIEW REPOSITORY](https://github.com/RAGHAV4056/ClusterMind-GPU-Resource-Allocation-System)
 
-A C-based shell project exploring operating system fundamentals and UNIX concepts.
+---
 
-- Custom command execution
-- Process management
-- Pipes and I/O redirection
-- File handling and automation
+### 07. NexShell
+
+**Custom UNIX-Style Shell**
+
+A C-based shell project exploring UNIX fundamentals, process execution, pipes, redirection and file handling.
 
 `C` `Linux` `UNIX`
 
-### 03. ForgeLang
-**An Experimental Programming Language**
+[VIEW ALL REPOSITORIES](https://github.com/RAGHAV4056?tab=repositories)
 
-Exploring programming language design with a clean syntax and developer-friendly experience.
+<sub>Seven work projects listed, excluding the profile README repository.</sub>
 
-- Custom syntax and language rules
-- Structured blocks and expressions
-- AI-Free Error Explainer
-
-`Programming Languages` `Language Design`
-
----
-
-## `$ experience` — Community & Achievements
-
-- **JODC-128** — Core Team, Technical Member
-- **Gemini Student Ambassador** — 2026
-- **Elip AI Campus Ambassador** — 2026
-- **GirlScript Summer of Code** — Contributor & Ambassador
-- **Smart India Hackathon 2025** — Institute Nominee
-- **ISVC** — Round 1 Qualifier
-- **JIIT Youth Club** — Technical & PR
-
----
-
-## `$ github-stats` — Activity & Contributions
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RAGHAV4056&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00&text_color=E6EDF3&rank_icon=github" height="170" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAV4056&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=E6EDF3" height="170" alt="Most Used Languages" />
+</td></tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=RAGHAV4056&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" width="80%" alt="GitHub Contribution Streak" />
+<!-- EXPERIENCE -->
+<table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
+<tr><td bgcolor="#170B0A">
 
-</div>
+<h2><font color="#FF6035">06 / EXPERIENCE & ACHIEVEMENTS</font></h2>
 
-## `$ contribution-graph`
+- ⚡ **JODC-128** — Core Team, Technical Member
+- ✦ **Gemini Student Ambassador** — 2026
+- ✦ **Elip AI Campus Ambassador** — 2026
+- ⌘ **GirlScript Summer of Code** — Contributor & Ambassador
+- 🏆 **Smart India Hackathon 2025** — Institute Nominee
+- ✦ **ISVC** — Round 1 Qualifier
+- ⌘ **JIIT Youth Club** — Technical & PR
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- GITHUB STATS -->
+<table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
+<tr><td bgcolor="#170B0A">
+
+<h2><font color="#FF6035">07 / GITHUB ANALYTICS</font></h2>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=raghav4056&theme=satan" alt="GitHub Contribution Heatmap" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RAGHAV4056&show_icons=true&hide_border=true&bg_color=170B0A&title_color=FF6035&icon_color=FF6B00&text_color=F5D8CA&rank_icon=github" width="48%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAV4056&layout=compact&hide_border=true&bg_color=170B0A&title_color=FF6035&text_color=F5D8CA" width="48%" alt="Top languages"/>
 </p>
 
----
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=RAGHAV4056&hide_border=true&background=170B0A&ring=FF6035&fire=FF6B00&currStreakLabel=FF6035&sideLabels=F5D8CA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B99B90" width="85%" alt="Contribution streak"/>
+</p>
 
-## `$ connect` — Let's Connect
+</td></tr>
+</table>
+
+<br/>
+
+<!-- CONTRIBUTIONS -->
+<table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
+<tr><td bgcolor="#170B0A">
+
+<h2><font color="#FF6035">08 / CONTRIBUTION ACTIVITY</font></h2>
 
 <p align="center">
-  <a href="https://github.com/RAGHAV4056">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/company/jodc/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAGHAV4056&bg_color=170B0A&color=F5D8CA&line=FF6035&point=FF6B00&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
+</p>
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- CONNECT -->
+<table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
+<tr><td bgcolor="#170B0A">
+
+<h2><font color="#FF6035">09 / LET'S CONNECT</font></h2>
+
+<p align="center">
+<a href="https://github.com/RAGHAV4056">
+<img src="https://img.shields.io/badge/GitHub-FF6035?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="YOUR_PERSONAL_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-FF6035?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 <div align="center">
 
-### `BUILD • LEARN • CONTRIBUTE • REPEAT`
+### BUILD. LEARN. CONTRIBUTE. REPEAT.
 
-*Thanks for visiting my corner of GitHub!*
+<sub>Crafted with curiosity by Raghav Sharma.</sub>
 
 </div>
 
+</td></tr>
+</table>
