@@ -19,7 +19,7 @@
 ## 01 / ALL WORK REPOSITORIES
 
 <p align="center">
-  <img src="./assets/all_work_repositories.svg?v=1" width="100%" alt="Raghav Sharma — All Work Repositories" />
+  <img src="https://raw.githubusercontent.com/RAGHAV4056/RAGHAV4056/main/assets/all_work_repositories.svg" width="100%" alt="Raghav Sharma — All Work Repositories" />
 </p>
 
 The graphic is a visual index; use these direct links to open each project.
