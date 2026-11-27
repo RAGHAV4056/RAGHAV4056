@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="550" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111111"/><stop offset="1" stop-color="#19130F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFAA62"/><stop offset="1" stop-color="#FF5A00"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6B00" stop-opacity="0"/><stop offset=".5" stop-color="#FF6B00" stop-opacity=".9"/><stop offset="1" stop-color="#FF6B00" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#FFFFFF" stroke-opacity=".035"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="570" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="570" rx="20" fill="url(#grid)"/>
+  <circle cx="1080" cy="90" r="190" fill="#FF6B00" opacity=".035"/>
+  <circle cx="1080" cy="90" r="125" stroke="#FF6B00" stroke-opacity=".12" stroke-dasharray="3 9"/>
+  <path d="M0 1H1200" stroke="#FF6B00" stroke-opacity=".55"/>
+  <path d="M0 569H1200" stroke="#FF6B00" stroke-opacity=".35"/>
+
+  <!-- Header -->
+  <g font-family="monospace">
+    <rect x="48" y="38" width="4" height="27" rx="2" fill="#FF6B00"/>
+    <text x="68" y="58" fill="#F4F4F4" font-size="23" font-weight="700" letter-spacing="2">ABOUT ME</text>
+    <text x="1150" y="56" fill="#FF8A35" font-size="12" text-anchor="end" letter-spacing="2">01 / INTRODUCTION</text>
+    <path d="M48 83H1152" stroke="#FFFFFF" stroke-opacity=".12"/>
+  </g>
+
+  <!-- Intro copy -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="62" y="137" fill="#FF9147" font-family="monospace" font-size="13" letter-spacing="3">CURIOUS MIND. CONTINUOUS LEARNER. BUILDER.</text>
+    <text x="60" y="197" fill="#FFFFFF" font-size="43" font-weight="800" letter-spacing="-1.5">I TURN CURIOSITY</text>
+    <text x="60" y="247" fill="url(#accent)" font-size="43" font-weight="800" letter-spacing="-1.5">INTO WORKING CODE.</text>
+    <text x="62" y="292" fill="#C8C8C8" font-size="17">I'm a Computer Science undergraduate at JIIT, exploring</text>
+    <text x="62" y="319" fill="#C8C8C8" font-size="17">software engineering through hands-on projects, problem</text>
+    <text x="62" y="346" fill="#C8C8C8" font-size="17">solving and open-source collaboration.</text>
+  </g>
+
+  <!-- Mini metadata chips -->
+  <g font-family="monospace" font-size="11">
+    <rect x="62" y="383" width="155" height="34" rx="7" fill="#FF6B00" fill-opacity=".09" stroke="#FF6B00" stroke-opacity=".38"/>
+    <circle cx="79" cy="400" r="4" fill="#FF8A35"/><text x="92" y="404" fill="#FFB178">B.TECH CSE</text>
+    <rect x="229" y="383" width="132" height="34" rx="7" fill="#FFFFFF" fill-opacity=".025" stroke="#FFFFFF" stroke-opacity=".13"/>
+    <text x="245" y="404" fill="#D0D0D0">JIIT '29</text>
+    <rect x="373" y="383" width="172" height="34" rx="7" fill="#FFFFFF" fill-opacity=".025" stroke="#FFFFFF" stroke-opacity=".13"/>
+    <text x="389" y="404" fill="#D0D0D0">OPEN SOURCE</text>
+  </g>
+
+  <!-- Right-side focus cards -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="650" y="126" fill="#888888" font-family="monospace" font-size="11" letter-spacing="2">WHAT I'M INTO</text>
+
+    <rect x="650" y="148" width="238" height="126" rx="12" fill="#171717" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <rect x="650" y="148" width="3" height="126" rx="1.5" fill="#FF6B00"/>
+    <text x="672" y="180" fill="#FF9147" font-family="monospace" font-size="11" letter-spacing="1">01 / BUILD</text>
+    <text x="672" y="211" fill="#FFFFFF" font-size="19" font-weight="700">Software Projects</text>
+    <text x="672" y="237" fill="#AFAFAF" font-size="13">Full-stack apps &amp; database</text>
+    <text x="672" y="256" fill="#AFAFAF" font-size="13">driven solutions.</text>
+
+    <rect x="906" y="148" width="238" height="126" rx="12" fill="#171717" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <rect x="906" y="148" width="3" height="126" rx="1.5" fill="#FF6B00"/>
+    <text x="928" y="180" fill="#FF9147" font-family="monospace" font-size="11" letter-spacing="1">02 / SOLVE</text>
+    <text x="928" y="211" fill="#FFFFFF" font-size="19" font-weight="700">Data Structures</text>
+    <text x="928" y="237" fill="#AFAFAF" font-size="13">Algorithms, logic &amp;</text>
+    <text x="928" y="256" fill="#AFAFAF" font-size="13">problem solving.</text>
+
+    <rect x="650" y="290" width="238" height="126" rx="12" fill="#171717" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <rect x="650" y="290" width="3" height="126" rx="1.5" fill="#FF6B00"/>
+    <text x="672" y="322" fill="#FF9147" font-family="monospace" font-size="11" letter-spacing="1">03 / EXPLORE</text>
+    <text x="672" y="353" fill="#FFFFFF" font-size="19" font-weight="700">Emerging Tech</text>
+    <text x="672" y="379" fill="#AFAFAF" font-size="13">AI/ML, systems &amp;</text>
+    <text x="672" y="398" fill="#AFAFAF" font-size="13">new technologies.</text>
+
+    <rect x="906" y="290" width="238" height="126" rx="12" fill="#171717" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <rect x="906" y="290" width="238" height="126" rx="12" fill="none" stroke="#FF6B00" stroke-opacity=".15"/>
+    <rect x="906" y="290" width="3" height="126" rx="1.5" fill="#FF6B00"/>
+    <text x="928" y="322" fill="#FF9147" font-family="monospace" font-size="11" letter-spacing="1">04 / CONTRIBUTE</text>
+    <text x="928" y="353" fill="#FFFFFF" font-size="19" font-weight="700">Open Source</text>
+    <text x="928" y="379" fill="#AFAFAF" font-size="13">Community, teamwork</text>
+    <text x="928" y="398" fill="#AFAFAF" font-size="13">&amp; shared learning.</text>
+  </g>
+
+  <!-- Bottom focus strip -->
+  <rect x="48" y="452" width="1104" height="75" rx="11" fill="#FF6B00" fill-opacity=".065" stroke="#FF6B00" stroke-opacity=".25"/>
+  <circle cx="77" cy="489" r="5" fill="#FF8A35" filter="url(#softGlow)">
+    <animate attributeName="opacity" values="1;.4;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <g font-family="monospace">
+    <text x="96" y="481" fill="#FF9A56" font-size="11" letter-spacing="1.5">CURRENT FOCUS</text>
+    <text x="96" y="504" fill="#E5E5E5" font-size="14">Strengthening DSA • Building projects • Growing as an engineer</text>
+    <text x="1124" y="494" fill="#FF8A35" font-size="11" text-anchor="end">LEARN / BUILD / REPEAT</text>
+  </g>
+
+  <rect x="0" y="566" width="1200" height="4" fill="url(#fade)">
+    <animate attributeName="opacity" values=".35;1;.35" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
