@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="790" viewBox="0 0 1200 790" role="img" aria-labelledby="title desc">
+<title id="title">Experience and Community — Raghav Sharma</title>
+<desc id="desc">Nine achievements, leadership roles and community contributions.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101010"/><stop offset="1" stop-color="#19130F"/></linearGradient>
+  <linearGradient id="orange" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FF9A45"/><stop offset="1" stop-color="#FF5A00"/></linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity=".035" fill="none"/></pattern>
+</defs>
+<rect width="1200" height="790" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="790" rx="18" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="788" rx="17" fill="none" stroke="#30363D"/>
+<path d="M0 1H1200" stroke="#FF6B00" stroke-opacity=".55"/>
+<g font-family="monospace" font-size="12" fill="#888"><circle cx="34" cy="32" r="5" fill="#FF5F57"/><circle cx="52" cy="32" r="5" fill="#FEBC2E"/><circle cx="70" cy="32" r="5" fill="#28C840"/><text x="92" y="36">RAGHAV4056 / EXPERIENCE LOG</text><text x="1155" y="36" text-anchor="end" fill="#FF8A35">09 ENTRIES</text></g>
+<path d="M45 58H1155" stroke="#FFFFFF" stroke-opacity=".1"/>
+<text x="54" y="111" fill="#FF8A35" font-family="monospace" font-size="13" letter-spacing="3">LEADERSHIP  /  ACHIEVEMENTS  /  COMMUNITY</text>
+<text x="50" y="157" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="800">Experience &amp; Community</text>
+<text x="1150" y="151" text-anchor="end" fill="#8D929A" font-family="monospace" font-size="12">A RECORD OF BUILDING, CONTRIBUTING AND LEADING</text>
+<path d="M50 181H1150" stroke="#30363D"/>
+<!-- Row 1 -->
+<g transform="translate(50 205)">
+ <rect width="350" height="160" rx="10" fill="#161B22" stroke="#414047"/><rect width="4" height="160" rx="2" fill="url(#orange)"/>
+ <text x="22" y="29" fill="#FF8A35" font-family="monospace" font-size="11">01 / HACKATHON</text>
+ <text x="22" y="63" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">Smart India Hackathon</text>
+ <text x="22" y="88" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="15">2025</text>
+ <path d="M22 108H328" stroke="#30363D"/>
+ <text x="22" y="137" fill="#FFB16D" font-family="monospace" font-size="13">INSTITUTE NOMINEE</text>
+</g>
+<g transform="translate(425 205)">
+ <rect width="350" height="160" rx="10" fill="#161B22" stroke="#414047"/><rect width="4" height="160" rx="2" fill="url(#orange)"/>
+ <text x="22" y="29" fill="#FF8A35" font-family="monospace" font-size="11">02 / OPEN SOURCE</text>
+ <text x="22" y="63" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">GirlScript Summer</text>
+ <text x="22" y="87" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">of Code</text>
+ <path d="M22 108H328" stroke="#30363D"/>
+ <text x="22" y="137" fill="#FFB16D" font-family="monospace" font-size="13">CONTRIBUTOR &amp; AMBASSADOR</text>
+</g>
+<g transform="translate(800 205)">
+ <rect width="350" height="160" rx="10" fill="#161B22" stroke="#414047"/><rect width="4" height="160" rx="2" fill="url(#orange)"/>
+ <text x="22" y="29" fill="#FF8A35" font-family="monospace" font-size="11">03 / CHALLENGE</text>
+ <text x="22" y="63" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Indian Silicon Valley</text>
+ <text x="22" y="87" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Challenge 2023</text>
+ <path d="M22 108H328" stroke="#30363D"/>
+ <text x="22" y="137" fill="#FFB16D" font-family="monospace" font-size="13">ROUND 1 QUALIFIER</text>
+</g>
+<!-- Row 2 -->
+<g transform="translate(50 385)">
+ <rect width="350" height="160" rx="10" fill="#161B22" stroke="#414047"/><rect width="4" height="160" rx="2" fill="url(#orange)"/>
+ <text x="22" y="29" fill="#FF8A35" font-family="monospace" font-size="11">04 / EVENT LEADERSHIP</text>
+ <text x="22" y="63" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">JIIT Agentic AI</text>
+ <text x="22" y="87" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Summit 2026</text>
+ <path d="M22 108H328" stroke="#30363D"/>
+ <text x="22" y="137" fill="#FFB16D" font-family="monospace" font-size="13">COORDINATOR</text>
+</g>
+<g transform="translate(425 385)">
+ <rect width="350" height="160" rx="10" fill="#161B22" stroke="#414047"/><rect width="4" height="160" rx="2" fill="url(#orange)"/>
+ <text x="22" y="29" fill="#FF8A35" font-family="monospace" font-size="11">05 / COMPETITION</text>
+ <text x="22" y="63" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">24 Hour Code-a-thon</text>
+ <path d="M22 108H328" stroke="#30363D"/>
+ <text x="22" y="137" fill="#FFB16D" font-family="monospace" font-size="13">1ST PRIZE WINNER</text>
+ <rect x="266" y="15" width="62" height="23" rx="11" fill="#2A1B12" stroke="#8A4B1D"/><text x="297" y="30" text-anchor="middle" fill="#FFB16D" font-family="monospace" font-size="10">#1</text>
+</g>
+<g transform="translate(800 385)">
+ <rect width="350" height="160" rx="10" fill="#161B22" stroke="#414047"/><rect width="4" height="160" rx="2" fill="url(#orange)"/>
+ <text x="22" y="29" fill="#FF8A35" font-family="monospace" font-size="11">06 / CAMPUS PROGRAM</text>
+ <text x="22" y="63" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">Gemini Student</text>
+ <text x="22" y="87" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="19" font-weight="700">Ambassador 2026</text>
+ <path d="M22 108H328" stroke="#30363D"/>
+ <text x="22" y="137" fill="#FFB16D" font-family="monospace" font-size="13">STUDENT AMBASSADOR</text>
+</g>
+<!-- Row 3 -->
+<g transform="translate(50 565)">
+ <rect width="350" height="160" rx="10" fill="#161B22" stroke="#414047"/><rect width="4" height="160" rx="2" fill="url(#orange)"/>
+ <text x="22" y="29" fill="#FF8A35" font-family="monospace" font-size="11">07 / GDG-128</text>
+ <text x="22" y="70" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">UI/UX</text>
+ <path d="M22 108H328" stroke="#30363D"/>
+ <text x="22" y="137" fill="#FFB16D" font-family="monospace" font-size="13">CORE TEAM MEMBER</text>
+</g>
+<g transform="translate(425 565)">
+ <rect width="350" height="160" rx="10" fill="#161B22" stroke="#414047"/><rect width="4" height="160" rx="2" fill="url(#orange)"/>
+ <text x="22" y="29" fill="#FF8A35" font-family="monospace" font-size="11">08 / JODC-128</text>
+ <text x="22" y="70" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Technical</text>
+ <path d="M22 108H328" stroke="#30363D"/>
+ <text x="22" y="137" fill="#FFB16D" font-family="monospace" font-size="13">CORE TEAM MEMBER</text>
+</g>
+<g transform="translate(800 565)">
+ <rect width="350" height="160" rx="10" fill="#161B22" stroke="#414047"/><rect width="4" height="160" rx="2" fill="url(#orange)"/>
+ <text x="22" y="29" fill="#FF8A35" font-family="monospace" font-size="11">09 / JYC-128</text>
+ <text x="22" y="70" fill="#F0F0F0" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">Core Team</text>
+ <path d="M22 108H328" stroke="#30363D"/>
+ <text x="22" y="137" fill="#FFB16D" font-family="monospace" font-size="13">CORE TEAM MEMBER</text>
+</g>
+<path d="M50 755H1150" stroke="#FF6B00" stroke-opacity=".45"/>
+<text x="50" y="775" fill="#777" font-family="monospace" font-size="10">RAGHAV4056 / EXPERIENCE &amp; COMMUNITY</text>
+<text x="1150" y="775" text-anchor="end" fill="#FF8A35" font-family="monospace" font-size="10">01 — 09</text>
+</svg>
