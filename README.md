@@ -1,3 +1,11 @@
+
+<p align="center">
+  <img
+    src="./assets/hero.svg"
+    width="100%"
+    alt="Raghav Sharma - Developer Profile"
+  />
+</p>
  <div align="center">
 
 <table width="100%" bgcolor="#170B0A" border="1" bordercolor="#C64A12" cellpadding="18">
