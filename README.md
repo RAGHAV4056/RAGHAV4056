@@ -63,5 +63,5 @@ The graphic is a visual index; use these direct links to open each project.
 <p align="center">
   <sub>Open to building, collaborating and learning together.</sub>
   <br />
-  **BUILD. LEARN. CONTRIBUTE. REPEAT.**
+  BUILD. LEARN. CONTRIBUTE. REPEAT.
 </p>
