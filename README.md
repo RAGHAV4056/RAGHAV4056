@@ -16,8 +16,7 @@
 
 ---
 
-## 01 / ALL WORK REPOSITORIES
-
+## ALL PROJECTS
 <p align="center">
   <img src="https://raw.githubusercontent.com/RAGHAV4056/RAGHAV4056/main/assets/all_work_repositories.svg" width="100%" alt="Raghav Sharma — All Work Repositories" />
 </p>
