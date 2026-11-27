@@ -14,7 +14,11 @@
   />
 </p>
 <!-- END ABOUT ME SECTION -->
-
+<!-- PROFILE SNAPSHOT -->
+<p align="center">
+  <img src="./assets/profile_snapshot.svg?v=2" width="100%" alt="Raghav Sharma - Profile Snapshot"/>
+</p>
+<!-- END PROFILE SNAPSHOT -->
  
  
  
