@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="./assets/hero.svg"
@@ -6,103 +5,14 @@
     alt="Raghav Sharma - Developer Profile"
   />
 </p>
-
 <!-- ABOUT ME SECTION -->
-
-<table width="100%" bgcolor="#111111">
-<tr>
-<td width="100%">
-
-<h2> <span style="color:#FF6B00;">▌</span> ABOUT ME</h2>
-
-<p>
-  <b>Curious mind. Continuous learner. Builder.</b>
-</p>
-
-<p>
-  I'm a Computer Science undergraduate at
-  <b>Jaypee Institute of Information Technology (JIIT)</b>,
-  passionate about software development, problem-solving
-  and exploring emerging technologies.
-</p>
-
-<p>
-  I enjoy working across different areas of computer science,
-  from writing efficient algorithms to developing practical
-  applications and understanding how systems work internally.
-</p>
-
-<hr/>
-
-<h3>WHAT I DO</h3>
-
-<table width="100%" bgcolor="#171717">
-<tr>
-<td width="50%" valign="top">
-
-<b>01 / BUILDING</b>
-
-<p>
-Full-stack applications, database-driven systems
-and practical software projects.
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<b>02 / PROBLEM SOLVING</b>
-
-<p>
-Data Structures, Algorithms and
-competitive programming.
-</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<b>03 / EXPLORING</b>
-
-<p>
-Artificial Intelligence, Machine Learning,
-systems programming and emerging technologies.
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<b>04 / CONTRIBUTING</b>
-
-<p>
-Open-source development, collaborative
-projects and developer communities.
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<p>
-  <b>Currently focused on:</b>
-  Strengthening DSA fundamentals, developing
-  full-stack projects and expanding my knowledge
-  of computer science.
-</p>
-
-<hr/>
-
 <p align="center">
-  <i>Learning by building. Improving by solving.
-  Growing by contributing.</i>
+  <img
+    src="./assets/about.svg?v=1"
+    width="100%"
+    alt="About Raghav Sharma - Student Developer"
+  />
 </p>
-
-</td>
-</tr>
-</table>
-
 <!-- END ABOUT ME SECTION -->
 
  
